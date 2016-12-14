@@ -12,7 +12,9 @@
 
 ## Java
 
-A compléter
+### Java 8
+
+* Video (Anglais) - [Get a Taste of Lambdas and Get Addicted to Streams par Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
 ## Spring
 
@@ -36,10 +38,14 @@ A compléter
 #### Références
 
 * Projet - http://projects.spring.io/spring-cloud/
-* Présentation de formation - https://daniellavoie.github.io/formation-spring-cloud
+* Présentation - [Formation par Daniel Lavoie](https://daniellavoie.github.io/formation-spring-cloud)
 * Video (Anglais) - [The Bootiful Microservice par Josh Long](https://www.youtube.com/watch?v=rqQOSG0DWPY&index=9&list=PLRsbF2sD7JVo_QfQOFD95VHv9jwz8tf5i)
 
 ## Elasticsearch
+
+* Projet - https://www.elastic.co/fr/products/elasticsearch
+* Livre en ligne - [The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
+* Présentation - [Formationn par Daniel Lavoie](https://github.com/daniellavoie/formation-elk/blob/master/plan-de-cours.pdf)
 
 ## Big Data
 
@@ -47,11 +53,13 @@ TODO
 
 ## Un peu de Web
 
-TODO 
+### AngularJS
+
+* Tutoriaux en ligne intéractif - [Codeschool](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ## Programmation réactive
 
-TODO 
+* Article (Anglais) - [The introduction to Reactive Programming you've been missing par Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ## Conteneurs
 
