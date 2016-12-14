@@ -16,6 +16,10 @@
 
 * Video (Anglais) - [Get a Taste of Lambdas and Get Addicted to Streams par Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
+### Traitements Concurrent
+
+* Article (Angalis) - (Modern threading for not-quite-beginners)[http://www.javaworld.com/article/2078679/java-concurrency/java-concurrency-modern-threading-for-not-quite-beginners.html]
+
 ## Spring
 
 ### Spring Framework
@@ -49,7 +53,7 @@
 
 ## Big Data
 
-TODO
+* Comparatif sur les solutions NoSQL (article qui date mais toujours juste) - https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
 ## Un peu de Web
 
@@ -63,4 +67,4 @@ TODO
 
 ## Conteneurs
 
-TODO
+* Video (Anglais) - [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0)
