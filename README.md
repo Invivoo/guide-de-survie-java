@@ -18,7 +18,7 @@
 
 ### Traitements Concurrent
 
-* Article (Angalis) - (Modern threading for not-quite-beginners)[http://www.javaworld.com/article/2078679/java-concurrency/java-concurrency-modern-threading-for-not-quite-beginners.html]
+* Article (Anglais) - (Modern threading for not-quite-beginners)[http://www.javaworld.com/article/2078679/java-concurrency/java-concurrency-modern-threading-for-not-quite-beginners.html]
 
 ## Spring
 
@@ -49,7 +49,7 @@
 
 * Projet - https://www.elastic.co/fr/products/elasticsearch
 * Livre en ligne - [The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
-* Présentation - [Formationn par Daniel Lavoie](https://github.com/daniellavoie/formation-elk/blob/master/plan-de-cours.pdf)
+* Présentation - [Formation par Daniel Lavoie](https://github.com/daniellavoie/formation-elk/blob/master/plan-de-cours.pdf)
 
 ## Big Data
 
