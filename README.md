@@ -63,7 +63,7 @@
 
 ### Gestionnaire de build
 
-* Webpack - [Site Web](https://webpack.github.io/docs/what-is-webpack.html) Enfin un Maven pour le développement Web.
+* Webpack (Un Maven pour le développement Web) - https://webpack.github.io/docs/what-is-webpack.html
 
 ## Programmation réactive
 
