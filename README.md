@@ -61,6 +61,10 @@
 
 * Tutoriaux en ligne intéractif - [Codeschool](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
+### Gestionnaire de build
+
+* Webpack - [Site Web](https://webpack.github.io/docs/what-is-webpack.html) Enfin un Maven pour le développement Web.
+
 ## Programmation réactive
 
 * Article (Anglais) - [The introduction to Reactive Programming you've been missing par Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
