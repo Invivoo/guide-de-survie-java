@@ -60,6 +60,7 @@
 ### AngularJS
 
 * Tutoriaux en ligne intéractif - [Codeschool](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* Servir du contenu provenant d'AngularJS CLI depuis une application Spring Boot - [JDriven](https://blog.jdriven.com/2016/12/angular2-spring-boot-getting-started/)
 
 ### Gestionnaire de build
 
