@@ -1,4 +1,4 @@
-# Guide de survit du développeur Java
+# Guide de survie du développeur Java
 
 ## Contenu
 
