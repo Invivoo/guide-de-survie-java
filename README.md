@@ -35,6 +35,7 @@
 * Articles de blogs Invivoo
   * [Développement RAD avec Spring Boot – Partie 1](http://blog.invivoo.com/developpement-rad-avec-spring-boot-partie-1/)
   * [Développement RAD avec Spring Boot – Partie 2](http://blog.invivoo.com/developpement-rad-avec-spring-boot-partie-2/)
+  * [Auto Configuration avec Spring Boot](http://blog.invivoo.com/auto-configuration-avec-boot/)
 * Video (Anglais)- [The Bootiful Application par Josh Long](https://www.youtube.com/watch?v=kGDcroKVECk)
 
 ### Spring Cloud
