@@ -18,7 +18,7 @@
 
 ### Traitements Concurrent
 
-* Article (Anglais) - (Modern threading for not-quite-beginners)[http://www.javaworld.com/article/2078679/java-concurrency/java-concurrency-modern-threading-for-not-quite-beginners.html]
+* Article (Anglais) - [Modern threading for not-quite-beginners](http://www.javaworld.com/article/2078679/java-concurrency/java-concurrency-modern-threading-for-not-quite-beginners.html)
 
 ## Spring
 
