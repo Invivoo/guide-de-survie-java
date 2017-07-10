@@ -70,6 +70,7 @@
 ## Programmation réactive
 
 * Article (Anglais) - [The introduction to Reactive Programming you've been missing par Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* Video - [DevFest Nantes 2016 - Introduction à la programmation réactive](https://www.youtube.com/watch?v=4q78S36ehCs)
 
 ## Conteneurs
 
