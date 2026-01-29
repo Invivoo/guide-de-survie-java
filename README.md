@@ -1,5 +1,10 @@
 # Guide de survie du développeur Java
 
+## But de ce repo
+
+Ce repo a pour but de répertorier et classer un maximum de ressources intéressantes et de qualité, afin de traiter tout sujet qui se rapproche de près ou de loin au monde Java et pouvant servir de référence pour un développeur qui a besoin de trouver de quoi se former ou réviser ses bases. Que ce soit des vidéos, des articles, des sites sur lesquels faire des exercices, ou des références de livres, formations, etc...
+Ce document a pour vocation d'être collaboratif, toute suggestion de ressource est bienvenue et pourra être ajoutée par une pull request (pour chaque ressource, mettre une date et une source si besoin, afin qu'un ménage régulier puisse se faire).
+
 ## Contenu
 
 * [Java](#java)
@@ -11,6 +16,17 @@
 * [Conteneurs](#conteneurs)
 
 ## Java
+
+### Cours, tutoriaux
+
+* Cours Java de Jean-Michel Doudoux : https://www.jmdoudoux.fr/accueil_java.htm 
+(Ressource qui a été créée en 1999 et qui est régulièrement mise à jour avec les nouveautés. Il peut y avoir parfois des éléments un peu vieillots, mais la qualité de la présentation, de l’expression, et des exemples en fait un incontournable pour réviser Java en général. 130 sous-parties dans le sommaire qui couvrent la plupart des sujets dans et autour de Java)
+* Tutoriaux Oracle (Anglais) : https://docs.oracle.com/javase/tutorial/index.html
+
+### Ressources pour entretiens
+
+* Questions d’entretien : https://www.interviewbit.com/ 
+(Des listes de questions/réponses typiques d’entretien. Le site en lui-même n’étant pas hyper pratique pour les recherches on peut faire une recherche Google : <votre thème> interviewbit => ça permet de tomber directement sur la bonne page. Par exemple “spring boot interviewbit” => https://www.interviewbit.com/spring-boot-interview-questions/. Il faut aussi s’inscrire sur le site pour pouvoir profiter de tout sans popups. Il y a également des exercices)
 
 ### Java 8
 
