@@ -80,6 +80,10 @@ Ce document a pour vocation d'être collaboratif, toute suggestion de ressource 
 * Apache Kafka : https://www.ambient-it.net/apache-kafka-guide-complet/
 * RabbitMQ : https://www.bureaudestalents.com/glossaire-tech/rabbitmq
 
+## Archi - Bonnes pratiques
+
+* Guidelines pour API rest : https://github.com/zalando/restful-api-guidelines
+
 ## Un peu de Web
 
 ### AngularJS
