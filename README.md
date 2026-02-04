@@ -74,9 +74,11 @@ Ce document a pour vocation d'être collaboratif, toute suggestion de ressource 
 * Livre en ligne - [The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 * Présentation - [Formation par Daniel Lavoie](https://github.com/daniellavoie/formation-elk/blob/master/plan-de-cours.pdf)
 
-## Big Data
+## Big Data - Frameworks Data / Messaging / Streaming
 
 * Comparatif sur les solutions NoSQL (article qui date mais toujours juste) - https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+* Apache Kafka : https://www.ambient-it.net/apache-kafka-guide-complet/
+* RabbitMQ : https://www.bureaudestalents.com/glossaire-tech/rabbitmq
 
 ## Un peu de Web
 
