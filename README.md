@@ -21,7 +21,7 @@ Ce document a pour vocation d'être collaboratif, toute suggestion de ressource 
 
 * Cours Java de Jean-Michel Doudoux : https://www.jmdoudoux.fr/accueil_java.htm 
 (Ressource qui a été créée en 1999 et qui est régulièrement mise à jour avec les nouveautés. Il peut y avoir parfois des éléments un peu vieillots, mais la qualité de la présentation, de l’expression, et des exemples en fait un incontournable pour réviser Java en général. 130 sous-parties dans le sommaire qui couvrent la plupart des sujets dans et autour de Java)
-* Tutoriaux Oracle (Anglais) : https://docs.oracle.com/javase/tutorial/index.html
+* [Tutoriaux Oracle (Anglais)](https://docs.oracle.com/javase/tutorial/index.html)
 
 ### Ressources pour entretiens
 
@@ -32,9 +32,15 @@ Ce document a pour vocation d'être collaboratif, toute suggestion de ressource 
 
 * Video (Anglais) - [Get a Taste of Lambdas and Get Addicted to Streams par Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
-### Traitements Concurrent
+### Multithreading
 
 * Article (Anglais) - [Modern threading for not-quite-beginners](http://www.javaworld.com/article/2078679/java-concurrency/java-concurrency-modern-threading-for-not-quite-beginners.html)
+
+### Collections
+
+* [Choisir la bonne collection](https://www.baeldung.com/java-choose-list-set-queue-map)
+* Les collections en Java : [Java Collections Framework-Part1 | Collection Vs Collection Framework](https://www.youtube.com/watch?v=hKhlkx_6HeI) 
+=> une série de vidéos pour savoir un maximum de choses sur les diverses collections en Java (en anglais). La chaîne possède de nombreuses vidéos sur un peu tous les sujets : [SDET- QA - YouTube](https://www.youtube.com/@sdetpavan) 
 
 ## Spring
 
